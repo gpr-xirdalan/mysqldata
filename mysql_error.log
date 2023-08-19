@@ -1,0 +1,48 @@
+2023-08-18 18:36:21 0 [Note] InnoDB: The first innodb_system data file 'ibdata1' did not exist. A new tablespace will be created!
+2023-08-18 18:36:21 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-08-18 18:36:21 0 [Note] InnoDB: Uses event mutexes
+2023-08-18 18:36:21 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-08-18 18:36:21 0 [Note] InnoDB: Number of pools: 1
+2023-08-18 18:36:21 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-08-18 18:36:21 0 [ERROR] InnoDB: Unable to create temporary file; errno: 2
+2023-08-18 18:36:21 0 [ERROR] InnoDB: Unable to create temporary file; errno: 2
+2023-08-18 18:36:21 0 [ERROR] InnoDB: Database creation was aborted with error Generic error. You may need to delete the ibdata1 file before trying to start up again.
+2023-08-18 18:36:21 0 [Note] InnoDB: Starting shutdown...
+2023-08-18 18:36:22 0 [ERROR] Plugin 'InnoDB' init function returned error.
+2023-08-18 18:36:22 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2023-08-18 18:36:22 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-08-18 18:36:22 0 [ERROR] Could not open mysql.plugin table. Some plugins may be not loaded
+2023-08-18 18:36:22 0 [ERROR] Unknown/unsupported storage engine: InnoDB
+2023-08-18 18:36:22 0 [ERROR] Aborting
+2023-08-18 19:30:51 0 [Note] InnoDB: The first innodb_system data file 'ibdata1' did not exist. A new tablespace will be created!
+2023-08-18 19:30:51 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-08-18 19:30:51 0 [Note] InnoDB: Uses event mutexes
+2023-08-18 19:30:51 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-08-18 19:30:51 0 [Note] InnoDB: Number of pools: 1
+2023-08-18 19:30:51 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-08-18 19:30:51 0 [ERROR] InnoDB: Unable to create temporary file; errno: 2
+2023-08-18 19:30:51 0 [ERROR] InnoDB: Unable to create temporary file; errno: 2
+2023-08-18 19:30:51 0 [ERROR] InnoDB: Database creation was aborted with error Generic error. You may need to delete the ibdata1 file before trying to start up again.
+2023-08-18 19:30:51 0 [Note] InnoDB: Starting shutdown...
+2023-08-18 19:30:51 0 [ERROR] Plugin 'InnoDB' init function returned error.
+2023-08-18 19:30:51 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2023-08-18 19:30:51 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-08-18 19:30:51 0 [ERROR] Could not open mysql.plugin table. Some plugins may be not loaded
+2023-08-18 19:30:51 0 [ERROR] Unknown/unsupported storage engine: InnoDB
+2023-08-18 19:30:51 0 [ERROR] Aborting
+2023-08-18 20:20:40 0 [Note] InnoDB: The first innodb_system data file 'ibdata1' did not exist. A new tablespace will be created!
+2023-08-18 20:20:40 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-08-18 20:20:40 0 [Note] InnoDB: Uses event mutexes
+2023-08-18 20:20:40 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-08-18 20:20:40 0 [Note] InnoDB: Number of pools: 1
+2023-08-18 20:20:40 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-08-18 20:20:40 0 [ERROR] InnoDB: Unable to create temporary file; errno: 2
+2023-08-18 20:20:40 0 [ERROR] InnoDB: Unable to create temporary file; errno: 2
+2023-08-18 20:20:40 0 [ERROR] InnoDB: Database creation was aborted with error Generic error. You may need to delete the ibdata1 file before trying to start up again.
+2023-08-18 20:20:40 0 [Note] InnoDB: Starting shutdown...
+2023-08-18 20:20:40 0 [ERROR] Plugin 'InnoDB' init function returned error.
+2023-08-18 20:20:40 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2023-08-18 20:20:40 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-08-18 20:20:40 0 [ERROR] Could not open mysql.plugin table. Some plugins may be not loaded
+2023-08-18 20:20:40 0 [ERROR] Unknown/unsupported storage engine: InnoDB
+2023-08-18 20:20:40 0 [ERROR] Aborting
